@@ -18,12 +18,6 @@ body {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
 }
 
-@media screen and (min-width: 1440px) {
-  .cabecalho {
-    display: none;
-  }
-}
-
 .cabecalho__menu i::before {
   content: "\e904";
   font-size: 24px;
